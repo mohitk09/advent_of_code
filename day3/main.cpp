@@ -28,8 +28,7 @@ int main(){
                 }
                 break;
             }
-        }
-                
+        }        
     }
     cout<<"ans "<<ans<<endl;
 }
